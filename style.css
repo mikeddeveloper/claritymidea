@@ -35,7 +35,10 @@
     font-size: 1.5em; /* Adjust icon size */
 }
 h1{
-    font-size: 40px;
+    font-size: 60px;
+    font-weight: bolder;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .about-us {
     background-color: #f8f3e0; /* Creamy background */
